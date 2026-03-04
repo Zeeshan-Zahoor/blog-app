@@ -5,7 +5,7 @@ import Logo from '../Logo';
 
 export default function Footer() {
   return (
-    <section className="py-12 bg-white border-t">
+    <section className="pt-12 pb-1 bg-white border-t">
       <div className="mx-auto max-w-7xl px-6">
         <div className="flex flex-col md:flex-row justify-between gap-10">
 
@@ -37,16 +37,16 @@ export default function Footer() {
                   className="text-gray-500 hover:text-black transition"
                   to="https://github.com/Zeeshan-Zahoor"
                 >
-                  About
+                  Visit Us
                 </Link>
               </li>
             </ul>
           </div>
+          <div className='w-full'>
+            <h1 className='text-center text-xs text-gray-500'>Made with ❤️ by Zeeshan</h1>
+          </div>
 
         </div>
-      </div>
-      <div className='fixed bottom-0 w-full'>
-        <h1 className='text-center text-sm text-gray-500'>Made with ❤️ by Zeeshan</h1>
       </div>
     </section>
   );
