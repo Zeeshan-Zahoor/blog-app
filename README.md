@@ -163,7 +163,7 @@ Steps:
 
 ## 📸 Screenshots
 
-![Home Page](screenshots\home.png)
+![Home Page](./screenshots/home.png)
 
 ---
 
