@@ -163,7 +163,7 @@ Steps:
 
 ## 📸 Screenshots
 
-*(Add screenshots of your blog UI here)*
+![Home Page](screenshots\home.png)
 
 ---
 
