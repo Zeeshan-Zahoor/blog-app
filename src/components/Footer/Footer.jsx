@@ -27,7 +27,7 @@ export default function Footer() {
 
           {/* Right column */}
           <div>
-            <h3 className="text-sm font-semibold uppercase text-gray-700 mb-4 tracking-wide">
+            <h3 className="text-sm font-semibold uppercase text-gray-700 mb-4 tracking-wide flex-1">
               Company
             </h3>
 
@@ -42,11 +42,10 @@ export default function Footer() {
               </li>
             </ul>
           </div>
-          <div className='w-full'>
-            <h1 className='text-center text-xs text-gray-500'>Made with ❤️ by Zeeshan</h1>
-          </div>
-
         </div>
+         <div className='pt-10'>
+            <span className='text-center text-xs text-gray-500'>Made with ❤️ by Zeeshan</span>
+          </div>
       </div>
     </section>
   );
