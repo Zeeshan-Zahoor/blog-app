@@ -180,7 +180,7 @@ Steps:
 
 ## 👨‍💻 Author
 
-Zeeshan
+Zeeshan, 
 B.Tech CSE Student
 
 ---
