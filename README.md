@@ -175,6 +175,7 @@ Steps:
 * User profiles
 * Dark mode
 * Pagination
+* Connection mechanism
 
 ---
 
